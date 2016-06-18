@@ -1,0 +1,14 @@
++ instalar el motor y el ssdtbi
+entregables
+	- *.sql
+		+ DimProduct - 1+ estratificaciones
+		+ DimCustomer
+		+ DimAddress
+		+ FactSalesOrderDetail - 1+ estratificaciones
+		+ create table
+		+ insert
+		+ update
+		+ insertar las estratificaciones
+	- database (*.bak, (*.mdf y *.ldf))
+	- .docx (2 hojas)
+		+ pantallas

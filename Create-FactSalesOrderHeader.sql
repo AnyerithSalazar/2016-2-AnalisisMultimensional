@@ -28,7 +28,8 @@ CREATE TABLE [dbo].[FactSalesOrderHeader](
 	[SubTotal] [money] NOT NULL,
 	[TaxAmt] [money] NOT NULL,
 	[Freight] [money] NOT NULL,
-	[TotalDue] [money] NOT NULL
+	[TotalDue] [money] NOT NULL,
+	[IdEstratoTotalDue] [int] NULL
 ) ON [PRIMARY]
 
 GO
